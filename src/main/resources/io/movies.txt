@@ -1,0 +1,7 @@
+avengers; 1; true
+jobs; 2; true
+ant man; 3; true
+hulk; 4; true
+batman; 5; false
+lion king; 6; false
+pumba; 7; false

@@ -1,0 +1,5 @@
+sai; 1; false
+cnu; 2; false
+jaya; 3; false
+sonu; 4; true
+ram; 5; false
